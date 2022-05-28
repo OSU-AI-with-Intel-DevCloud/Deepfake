@@ -15,8 +15,9 @@ Group CS66
 - [MongoDB](https://www.mongodb.com/)
 - [Docker](https://docs.docker.com/)
 - [React](https://reactjs.org/)
-
 ## Installing and Running
 Instructions for install and running our project locally can be found in our:
 - [Cloud Scripts Repository](https://github.com/OSU-AI-with-Intel-DevCloud/cloud-scripts)
 - [User Interface Repository](https://github.com/OSU-AI-with-Intel-DevCloud/reactapp-ui)
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/0hncxbz48YE/default.jpg)](https://www.youtube.com/watch?v=0hncxbz48YE)
