@@ -20,4 +20,4 @@ Instructions for install and running our project locally can be found in our:
 - [Cloud Scripts Repository](https://github.com/OSU-AI-with-Intel-DevCloud/cloud-scripts)
 - [User Interface Repository](https://github.com/OSU-AI-with-Intel-DevCloud/reactapp-ui)
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/0hncxbz48YE/default.jpg)](https://www.youtube.com/watch?v=0hncxbz48YE)
+Check out a previous of what our project is about at: [www.youtube.com/watch?v=0hncxbz48YE](https://www.youtube.com/watch?v=0hncxbz48YE) or by downloading the .rar file in this repo.
