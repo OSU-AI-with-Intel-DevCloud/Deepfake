@@ -21,3 +21,11 @@ Instructions for install and running our project locally can be found in our:
 - [User Interface Repository](https://github.com/OSU-AI-with-Intel-DevCloud/reactapp-ui)
 ## Demo Video
 Check out a previous of what our project is about at: [www.youtube.com/watch?v=0hncxbz48YE](https://www.youtube.com/watch?v=0hncxbz48YE) or by downloading the .rar file in this repo.
+## Unrealized Features
+Our project has much room for improvement and change in many directions.
+- Training our own models in Intel DevCloud
+- Making full use of the GPU other forms of speedup provided by Intel DevCloud
+- Updating and personalizing the inference algorithms for our own use
+- Containerizing the entire front-end and back-end
+- Improving website functionality and how data is transfered
+- And so much more!
